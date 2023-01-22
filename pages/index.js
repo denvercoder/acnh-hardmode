@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div>
-          <img src="images/Rules.png" alt="animal crossing hard mode rules" />
+          <img src="images/Villager Rules.png" alt="animal crossing hard mode rules" />
         </div>
       </main>
     </>
